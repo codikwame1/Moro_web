@@ -1,0 +1,4 @@
+- Add JavaScript to index.html to make hamburger menu toggle on click
+- Add CSS animation for hamburger (X shape when active)
+- Search for text typos in all HTML files and fix them
+- Test the menu functionality
