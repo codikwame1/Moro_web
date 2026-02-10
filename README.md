@@ -5,7 +5,7 @@
  You can view the completed website by clicking the link below: 
  
 website link
-https://codikwame1.github.io/web-page/
+https://codikwame1.github.io/Moro_web/
 
 
 #### Name: Yakubu Moro
